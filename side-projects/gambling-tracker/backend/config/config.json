@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "Chanice",
+    "password": null,
+    "database": "gambling-tracker",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
